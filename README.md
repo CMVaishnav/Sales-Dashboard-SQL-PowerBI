@@ -1,16 +1,16 @@
-# 📊 Sales Dashboard using SQL & Power BI
+# Sales Dashboard using SQL & Power BI
 
 A complete business analytics project to visualize and analyze sales data using SQL for data extraction, Excel for cleaning, and Power BI for dashboarding. The data is based on the Superstore dataset.
 
 ---
 
-## 🎯 Objective
+# Objective
 
 To generate actionable insights from sales data across regions, segments, and product categories using interactive visualizations.
 
 ---
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 1. **SQL (SQLite)** – Queried and filtered sales data using `.db` file.
 2. **Excel** – Cleaned and transformed the data (`Superstore_cleaned.csv`)
@@ -19,7 +19,7 @@ To generate actionable insights from sales data across regions, segments, and pr
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 | File Name | Description |
 |-----------|-------------|
@@ -32,7 +32,7 @@ To generate actionable insights from sales data across regions, segments, and pr
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Open `superstore_sales.db` using **DB Browser for SQLite**
 2. View `Superstore_cleaned.csv` in Excel
@@ -41,16 +41,16 @@ To generate actionable insights from sales data across regions, segments, and pr
 
 ---
 
-## 📍 Key Insights
+##  Key Insights
 
-- 📌 **West Region** leads in sales but not necessarily in profit
-- 📌 **Consumer Segment** dominates total sales
-- 📌 **Binders & Phones** generate highest revenue
-- 📌 September shows peak monthly sales
+-  **West Region** leads in sales but not necessarily in profit
+-  **Consumer Segment** dominates total sales
+-  **Binders & Phones** generate highest revenue
+-  September shows peak monthly sales
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - SQL (SQLite + DB Browser)
 - Excel
