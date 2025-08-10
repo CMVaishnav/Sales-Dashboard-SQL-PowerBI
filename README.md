@@ -1,4 +1,4 @@
-Sales Dashboard using SQL & Power BI**  
+Sales Dashboard using SQL & Power BI
 
 Project Summary:**  
 This project analyzes Superstore sales data using **SQL** for data extraction, Excel for cleaning, and Power BI  for creating an interactive dashboard. It uncovers insights on regional performance, segment-wise sales, and product profitability to support data-driven decision-making.  
