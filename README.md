@@ -1,11 +1,11 @@
 Sales Dashboard using SQL & Power BI
 
-Project Summary:**  
+Project Summary: 
 This project analyzes Superstore sales data using **SQL** for data extraction, Excel for cleaning, and Power BI  for creating an interactive dashboard. It uncovers insights on regional performance, segment-wise sales, and product profitability to support data-driven decision-making.  
 
 
 
-Dashboard Preview**  
+Dashboard Preview
 
 Power BI Dashboard
 [![Power BI Dashboard](PowerBI_Dashboard_Screenshot.png)](PowerBI_Dashboard_Screenshot.png)
@@ -22,7 +22,7 @@ Objective
 To generate actionable insights from sales data across **regions**, **segments**, and **product categories** using interactive visualizations.  
 
 
-Project Workflow**  
+Project Workflow
 
 1. SQL (SQLite) – Queried and filtered sales data using `.db` file.  
 2. Excel – Cleaned and transformed the data (`Superstore_cleaned.csv`).  
@@ -31,7 +31,7 @@ Project Workflow**
 
 
 
-Tools Used**  
+Tools Used
 - SQL (SQLite + DB Browser)– Data querying & extraction  
 - Excel – Data cleaning & formatting  
 - Power BI – Dashboard creation  
@@ -39,7 +39,7 @@ Tools Used**
 
 
 
-Files Included**  
+Files Included
 
 | File Name                          | Description |
 |------------------------------------|-------------|
@@ -52,7 +52,7 @@ Files Included**
 | `Tableau_Dashboard_Screenshot.png` | Tableau dashboard screenshot |
 
 
-How to Run This Project**  
+How to Run This Project
 
 
 For SQL:
